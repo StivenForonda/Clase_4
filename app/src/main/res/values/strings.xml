@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application_Clase3</string>
+    <string name="titulo">Calcular Area</string>
+    <string name="Largo">Largo</string>
+    <string name="Ancho">Ancho</string>
+    <string name="Resultado">El Resultado es:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="segunda">Segunda Pantalla</string>
+</resources>
